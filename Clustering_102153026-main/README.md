@@ -1,10 +1,10 @@
-# Clustering_Raghav_102103042
+# Clustering_Raghav_102153026
 
-Submitted by: ***Raghav Dargan*** 
+Submitted by: ***Simarjeet Singh*** 
 
-Roll No: ***102103042***
+Roll No: ***102153026***
 
-Group: ***3COE2***
+Group: ***3COE14***
 
 ## Clustering Assignment using PyCaret
 
